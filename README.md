@@ -65,7 +65,7 @@ The results indicate that the DNN model outperformed both the LSTM and CNN in te
 ### Clone the Repository
 To get started with the project, clone the repository using the following command:
 ```bash
-git clonehttps://github.com/ahmedcherif11/Innovative-Battery-Management-System-for-Enhanced-Performance-and-Longevity-in-Electric-Vehicles.git
-cd Innovative-Battery-Management-System-for-Enhanced-Performance-and-Longevity-in-Electric-Vehicles
+git clone https://github.com/ahmedcherif11/AI-ML-Based-Battery-Management-System-for-EVs.git
+cd AI-ML-Based-Battery-Management-System-for-EVs
 ```
 
